@@ -1,0 +1,15 @@
+
+.form-container {
+    border: solid black 3px;
+    padding: 20px;
+    width: 80vh;
+    /* display: flex; */
+    margin: 0 auto;
+}
+
+.rem-border {
+    border: 0;
+}
+.rem-border:focus {
+    outline: none;
+}
